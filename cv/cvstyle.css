@@ -1,0 +1,25 @@
+body{
+background-color: #ffe3ed;
+}
+
+h1 {
+color: #fd7792;
+text-align: center;
+}
+
+h3{
+  color:#fd7792;
+  text-align: center;
+}
+
+hr{
+  border-color:grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  width:10%;
+}
+
+#me{
+  border-radius: 100%;
+}
